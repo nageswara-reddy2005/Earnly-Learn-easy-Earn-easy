@@ -1,7 +1,5 @@
 # Earnly - Learn & Earn Blockchain Rewards
 
-![Earnly Banner](https://via.placeholder.com/1200x300?text=Earnly+Banner)
-
 ## Project Title
 Earnly - A Blockchain Learning Platform For Learning and Earning
 
@@ -23,7 +21,7 @@ Earnly's "learn-to-earn" model addresses these issues by integrating educational
 
 The platform features a comprehensive dashboard that tracks progress, displays earned rewards, shows course recommendations, and enables social learning through leaderboards. This approach creates multiple motivational drivers: the intrinsic value of education, the extrinsic value of token rewards, and the social aspect of community recognition and competition.
 
-![Platform Overview](https://via.placeholder.com/800x400?text=Platform+Overview)
+
 
 ## Tech Stack Used
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+), Bootstrap 5
@@ -38,7 +36,6 @@ The platform features a comprehensive dashboard that tracks progress, displays e
 - **Storage**: Browser LocalStorage for client-side persistence
 - **Blockchain Integration**: Aptos blockchain for token-based reward system (APT tokens)
 
-![Tech Stack](https://via.placeholder.com/800x400?text=Tech+Stack+Diagram)
 
 ## Project Structure
 The project is organized into the following key directories:
