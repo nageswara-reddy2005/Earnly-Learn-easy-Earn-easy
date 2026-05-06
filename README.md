@@ -52,7 +52,7 @@ The project is organized into the following key directories:
 ### Core Features
 
 #### 1. User Management
-- Secure authentication system with login/signup functionality
+- Secure authentication system with login and signup functionality
 - Comprehensive user profiles with customizable information
 - Profile editing capabilities including photo uploads
 
